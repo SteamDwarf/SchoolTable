@@ -1,0 +1,18 @@
+.loader {
+    margin: 0 auto;
+}
+
+.small {
+    width: 20px;
+    height: 20px;
+}
+
+.big {
+    width: 250px;
+    height: 250px;
+}
+
+.text {
+    width: 300px;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+.tableContainer {
+    width: 70% !important;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #ea6153;
+}
+
+.header th {
+    color: #fff !important;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.studentsTable th,
+.studentsTable td {
+    text-align:  center;
+    border: 1px solid rgb(151, 151, 151);
+}
+
+.row:nth-of-type(odd) {
+    background-color: #e9e9e9;
+}
+
+.row:nth-of-type(even) {
+    background-color: #f6f6f6;
+}
+
